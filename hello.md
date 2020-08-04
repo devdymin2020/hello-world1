@@ -23,8 +23,14 @@
 - checkout : This is used to return to a specific branch.
 - sourcetree checkout: Check-out is possible by double-clicking the branch name.
 
-# Fast-forward
+# Fast-forward 
 
 - No changes to the head branch
 - When the branch to be merged starts from the head
 - Very easy to merge = Fast-forward
+
+## Fast-forward 2
+
+- If an additional commit is made to the head branch
+- Real merge is needed.
+- It's good if there is no conflict, but don't be afraid of it.
