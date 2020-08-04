@@ -11,3 +11,9 @@
 ## ¾Æ¹«¸» ¸· Àû±â
 - ¶ö¶ö¶ó...
 - aa
+
+## branch modify
+
+- branch : This is used when you want to add new content while maintaining the existing content.
+- checkout : This is used to return to a specific branch.
+- sourcetree checkout: Check-out is possible by double-clicking the branch name.
