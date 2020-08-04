@@ -1,13 +1,12 @@
 # hello git
 
-## git 명령어 요약
+## git command summary
 
-- clone: 원격 저장소 복사
-- add: 스테이지 영역에 작업화일 추가
-- push: 원격 저장소에 커밋을 업로드한다.
-- 깃 너무 불편해. 사람 쓰려고 만든거니?
-- 민 테스트
+- clone: Remote Storage Copy
+- add: Add work files to the Stage area
+- push: Upload a commit to the remote repository.
+- It's so uncomfortable. Is it made for people?
 
-## 아무말 막 적기
-- 랄랄라...
+## Jot down
+- rarara..
 - aa
