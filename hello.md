@@ -22,3 +22,9 @@
 - branch : This is used when you want to add new content while maintaining the existing content.
 - checkout : This is used to return to a specific branch.
 - sourcetree checkout: Check-out is possible by double-clicking the branch name.
+
+# Fast-forward
+
+- No changes to the head branch
+- When the branch to be merged starts from the head
+- Very easy to merge = Fast-forward
